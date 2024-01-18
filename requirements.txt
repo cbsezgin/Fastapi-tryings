@@ -5,3 +5,6 @@ passlib
 bcrypt
 pydantic
 python-multipart
+aiofiles
+requests
+pytest
